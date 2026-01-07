@@ -1,5 +1,3 @@
 # Learning Journey 
 
-
-
-Practice Git workflow
+Pratice Git+GitHub workflow
